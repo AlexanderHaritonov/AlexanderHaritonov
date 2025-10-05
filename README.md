@@ -27,10 +27,10 @@ Currently, I’m advancing my expertise in **Computer Vision** through Udacity�
 | 2011 | Fast Polygon Rendering | Visualizing Reachability areas for EVs| Comp. Geometry, Graphics | C++ |
 | 2013 | Vehicle Scheduling Heuristics | Shunting optimization | Combinatorics | C# |
 | 2014 | Intelligent Fitness Station | Real-time gesture recognition & feedback | Computer Vision | C++14 |
-| 2017 | Rectangle Packing into a Irregular Image Region | Near-optimal but fast approximation | Combinatorics, Geometry | C++, OpenCV |
+| 2017 | Rectangle Packing into a Irregular Image Region | Near-optimal fast approximation | Combinatorics, Geometry | C++, OpenCV |
 | 2019 | Urban Shadow Computation | Building shadow analysis for  city of Tel Aviv | Comp. Geometry, GIS | Python, NumPy |
 | 2019 | Post-Processing Mask R-CNN output | Topological graph + polygon simplification → +20% Accuracy compared to raw NN output | Image Segmentation | Python, NumPy |
-| 2023 | Incremental Workbook Changes | Proposed R-Tree indexing → reduced COGS & latency in Excel | Combinatorics, Graphics | TS |
+| 2023 | Incremental Workbook Changes | R-Tree indexing → reduced COGS & latency in Excel | Combinatorics | TS |
 | 2024 | Number Format Translation | Enabled DATE function in Copilot for non-English locales | Combinatorics | TS |
 
 ---
