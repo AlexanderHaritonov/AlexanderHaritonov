@@ -9,7 +9,7 @@ Currently, I’m advancing my expertise in **Computer Vision** through Udacity�
 ## 🚀 Highlights
 
 - 🧠 **15+ years** in algorithm design & AI engineering  
-- 🏆 Winner of **RWTH Aachen Programming Competition** (2001, sponsored by Sun Microsystems)  
+- 🏆 Winner of **RWTH Aachen Programming Competition for Students** (2001, sponsored by Sun Microsystems)  
 - 💡 Contributor to **Microsoft Excel Copilot** (GPT/LLM integration, latency optimization)  
 - 📊 Expertise in **computational geometry, combinatorics, graph algorithms, computer vision**  
 - 🌍 Projects spanning **GIS, transport networks, image segmentation, real-time graphics**
