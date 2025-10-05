@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexander
 
-**Algorithm & AI Engineer**, experience in **Computational Geometry, Trip Planning Algorithms, Machine Learning, and Computer Vision**.  
+**Algorithm & AI Engineer**, experience in **Computational Geometry, Graph Algorithms, Machine Learning, and Computer Vision**.  
 
 Currently, I’m advancing my expertise in **Computer Vision** through Udacity’s Nano Degree program.
 
