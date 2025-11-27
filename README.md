@@ -2,8 +2,6 @@
 
 **Algorithm & AI Engineer**, experience in **Computational Geometry, Graph Algorithms, Machine Learning, and Computer Vision**.  
 
-Currently, I’m advancing my expertise in **Computer Vision** through Udacity’s Nano Degree program.
-
 ---
 
 ## 🚀 Highlights
@@ -39,7 +37,7 @@ Currently, I’m advancing my expertise in **Computer Vision** through Udacity�
 
 - **Languages:** C++, C#, Python, TypeScript  
 - **Domains:** Computational Geometry, Graph Algorithms, Combinatorics, Machine Learning, Computer Vision  
-- **Frameworks & Tools:** OpenCV, NumPy, GPT/LLMs
+- **Frameworks & Tools:** OpenCV, NumPy, PyTorch
 
 ---
 
