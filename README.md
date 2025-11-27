@@ -6,7 +6,7 @@
 
 ## 🚀 Highlights
 
-- 🧠 **15+ years** in algorithm design & AI engineering  
+- 🧠 **10+ years** in algorithm design & AI engineering  
 - 🏆 Winner of **RWTH Aachen Programming Competition for Students** (2001, sponsored by Sun Microsystems)  
 - 💡 Contributor to **Microsoft Excel Copilot** (GPT/LLM integration, latency optimization)  
 - 📊 Expertise in **computational geometry, combinatorics, graph algorithms, computer vision**  
