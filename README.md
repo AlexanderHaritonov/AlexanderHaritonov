@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexander
 
-**Algorithm Engineer**, experience in **Computational Geometry, Graph Algorithms, Machine Learning, and Computer Vision**.  
+**Software and Algorithm Engineer**, experience in **Computational Geometry, Graph Algorithms, Machine Learning, and Computer Vision**.  
 
 ---
 
