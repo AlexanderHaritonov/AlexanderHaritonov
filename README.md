@@ -6,7 +6,7 @@
 
 ## 🚀 Highlights
 
-- 📊 Expertise in **computational geometry, combinatorics, graph algorithms, computer vision**  
+- 📊 Expertise in **computer vision, computational geometry, combinatorics, graph and routing**  
 - 🌍 Projects spanning **GIS, transport networks, image segmentation, real-time graphics**
 - 💡 Contributor to **Microsoft Excel Copilot** (GPT/LLM integration, latency optimization)
 - 🏆 Winner of **RWTH Aachen Programming Competition for Students** (2001, sponsored by Sun Microsystems)  
