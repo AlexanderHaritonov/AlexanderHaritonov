@@ -7,7 +7,7 @@
 ## 🚀 Highlights
 
 - 📊 Expertise in **computer vision, computational geometry, combinatorics, graph and route planning**  
-- 🌍 Projects spanning **GIS, transport networks, image segmentation, real-time graphics**
+- 🌍 Projects spanning **transport networks, image segmentation, real-time graphics**
 - 💡 Contributor to **Microsoft Excel Copilot** (GPT/LLM integration, latency optimization)
 - 🏆 Winner of **RWTH Aachen Programming Competition for Students** (sponsored by Sun Microsystems)  
 
@@ -34,7 +34,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, C#, Python, TypeScript  
+- **Languages:** Python, C, C++, C#, TypeScript  
 - **Domains:** Computational Geometry, Graph Algorithms, Combinatorics, Machine Learning, Computer Vision  
 - **Frameworks & Tools:** OpenCV, NumPy, PyTorch
 
