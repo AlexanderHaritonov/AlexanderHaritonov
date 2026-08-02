@@ -25,7 +25,7 @@ If you find it useful, a star helps others discover it!
 
 | Year | Project | Description | Domain | Tech | Company
 |------|----------|-------------|--------|------|------|
-| 2001 | Path Planning Engine for a turn-based race simulation | Won RWTH Aachen CS competition for students | Path Planning | | RWTH Aachen |
+| 2001 | Path Planning Engine for a turn-based race simulation | Won RWTH Aachen CS competition for students | Path Planning | Java | RWTH Aachen |
 | 2006 | Graph Traversal Heuristics | Master thesis on min-cover problem (rated 1.3, PhD recommendation) | Graph Algorithms | C | RWTH Aachen |
 | 2008 | Thick-Line Drawing Primitive | Real-time public transport route rendering over map on smartphones | Computatinal Geometry, Graphics | Java ME | Mentzdv |
 | 2009 | Optimal Fare Computation | Multi-modal public transport networks | Combinatorics | C# | Mentzdv |
