@@ -21,7 +21,7 @@ If you find it useful, a star helps others discover it!
 
 ---
 
-## 🧩 Some older Algorithms & Projects I developed or took part in
+## 🧩 Some older Projects I participated and Algorithms developed.
 
 | Year | Project | Description | Domain | Tech | Company
 |------|----------|-------------|--------|------|------|
@@ -31,7 +31,7 @@ If you find it useful, a star helps others discover it!
 | 2009 | Optimal Fare Computation | Multi-modal public transport networks | Combinatorics | C# | Mentzdv |
 | 2011 | Fast Filled Polygon Rendering | Visualizing Reachability areas for EVs, on embedded device | Computational Geometry, Graphics | C++ | TomTom |
 | 2013 | Vehicle Scheduling Heuristics | Shunting optimization | Combinatorics | C# | German Post |
-| 2014 | Intelligent Fitness Station | Real-time gesture recognition & feedback | Computer Vision | C++14 | Pixformance Sports |
+| 2014 | Intelligent Fitness Station | Real-time gesture recognition & feedback | Computer Vision | C++14 | Pixformance Sports (I participated) | 
 | 2017 | Rectangle Packing into a Irregular Image Region | Near-optimal fast approximation | Combinatorics, Geometry | C++, OpenCV | Solview |
 | 2019 | Urban Shadow Computation | Building shadow analysis for the city of Tel Aviv | Computational Geometry, GIS | Python, NumPy | Solview |
 | 2019 | Post-Processing the Mask RCNN output | Topological graph + polygon simplification → +20% Accuracy compared to raw NN output | Image Segmentation | Python, NumPy | Solview |
