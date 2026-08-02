@@ -21,7 +21,7 @@ If you find it useful, a star helps others discover it!
 
 ---
 
-## 🧩 Some older Projects I participated and Algorithms developed.
+## 🧩 Some older algorithms & projects I developed.
 
 | Year | Project | Description | Domain | Tech | Company
 |------|----------|-------------|--------|------|------|
