@@ -40,8 +40,8 @@ If you find it useful, a star helps others discover it!
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, C, C++, C#, TypeScript  
-- **Domains:** Computational Geometry, Graph Algorithms, Combinatorics, Machine Learning, Computer Vision  
-- **Frameworks & Tools:** OpenCV, NumPy, PyTorch
+- **Domains:** Computational Geometry, Graph Algorithms, Combinatorics, Computer Vision  
+- **Frameworks & Tools:** OpenCV, NumPy
 
 ---
 
