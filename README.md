@@ -16,7 +16,7 @@ If you find it useful, a star helps others discover it!
 
 - 📊 Expertise in **computer vision, computational geometry, combinatorics, graph and route planning**  
 - 🌍 Projects spanning **transport networks, image segmentation, real-time graphics**
-- 💡 Contributor to **Microsoft Excel Copilot** (GPT/LLM integration, latency optimization)
+- 💡 Contributor to **Microsoft Excel Copilot**
 - 🏆 Winner of **RWTH Aachen Programming Competition for Students** (sponsored by Sun Microsystems)  
 
 ---
