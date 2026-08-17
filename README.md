@@ -21,21 +21,7 @@ If you find it useful, a star helps others discover it!
 
 ---
 
-## 🧩 Some older algorithms & projects I developed.
 
-| Project | Description | Domain | Tech | Company
-|----------|-------------|--------|------|------|
-| Graph Traversal Heuristics | Master thesis on min-cover problem (rated 1.3, PhD recommendation) | Graph Algorithms | C | RWTH Aachen |
-| Thick-Line Drawing Primitive | Real-time public transport route rendering over map on smartphones | Computatinal Geometry, Graphics | Java ME | Mentzdv |
-| Optimal Fare Computation | Multi-modal public transport networks | Combinatorics | C# | Mentzdv |
-| Fast Filled Polygon Rendering | Visualizing Reachability areas for EVs, on embedded device | Computational Geometry, Graphics | C++ | TomTom |
-| Rectangle Packing into a Irregular Image Region | Near-optimal fast approximation | Combinatorics, Geometry | C++, OpenCV | Solview |
-| Urban Shadow Computation | Building shadow analysis for the city of Tel Aviv | Computational Geometry, GIS | Python, NumPy | Solview |
-| Post-Processing the Mask RCNN output | Topological graph + polygon simplification → +20% Accuracy compared to raw NN output | Image Segmentation | Python, NumPy | Solview |
-| Incremental Workbook Changes | R-Tree indexing → reduced COGS & latency in Excel | Combinatorics | Typescript | Microsoft |
-| Number Format Translation | Enabled DATE function in Copilot for non-English locales | Combinatorics | Typescript | Microsoft |
-
----
 
 ## 🛠️ Tech Stack
 
