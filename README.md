@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexander
+# 👋 Alexander Haritonov
 
 **Software and Algorithm Engineer**, experience in **Computational Geometry, Graph Algorithms, Computer Vision**.  
 
