@@ -15,7 +15,7 @@ If you find it useful, a star helps others discover it!
 ## 🚀 Highlights
 
 - 📊 Expertise in **computer vision, computational geometry, combinatorics, graph and route planning**  
-- 🌍 Projects spanning **transport networks, image segmentation, real-time graphics**
+- 🌍 Projects in **transport networks, image segmentation, real-time graphics**
 - 💡 Contributor to **Microsoft Excel Copilot**
 - 🏆 Winner of **RWTH Aachen Programming Competition for Students** (sponsored by Sun Microsystems)  
 
@@ -26,7 +26,7 @@ If you find it useful, a star helps others discover it!
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, C, C++, C#, TypeScript  
-- **Domains:** Computational Geometry, Graph Algorithms, Combinatorics, Computer Vision, Maps
+- **Domains:** Computer Vision, Maps, Computational Geometry, Graph Algorithms 
 - **Frameworks & Tools:** OpenCV, NumPy
 
 ---
