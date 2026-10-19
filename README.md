@@ -1,6 +1,6 @@
 # 👋 Alexander Haritonov
 
-**Software and Algorithm Engineer**, experience in **Computational Geometry, Graph Algorithms, Computer Vision**.  
+**Algorithm & Software Engineer | Computer Vision & 3D Depth | Evaluation & Benchmarking**.  
 
 ---
 
@@ -14,9 +14,8 @@ If you find it useful, a star helps others discover it!
 
 ## 🚀 Highlights
 
-- 📊 Expertise in **computer vision, computational geometry, combinatorics, graph and route planning**  
-- 🌍 Projects in **transport networks, image segmentation, real-time graphics**
-- 💡 Contributor to **Microsoft Excel Copilot**
+- 📊 Expertise in **computer vision, 3D/depth, computational geometry, combinatorics, graph and route planning**  
+- 💡 Worked on Excel Copilot at Microsoft (2024–25)
 - 🏆 Winner of **RWTH Aachen Programming Competition for Students** (sponsored by Sun Microsystems)  
 
 ---
