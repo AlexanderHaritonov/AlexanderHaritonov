@@ -30,7 +30,7 @@
    [Issue #28846](https://github.com/opencv/opencv/issues/28846)  
    [PR #28868](https://github.com/opencv/opencv/pull/28868) (mentee's bucket sort; fixes and improvements by me)  
    [PR #30196](https://github.com/opencv/opencv/pull/30196) (my follow-up: dispatcher, radix sort, float support)     
-   both under review
+   Both PRs are under review.
 
 ### Depth evaluation: stereo vs. mono vs. LiDAR (KITTI)
 
@@ -54,8 +54,8 @@ Built during the [3D Ascension](https://www.thinkautonomous.ai/) program by Thin
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, C, C++, C#, TypeScript  
-- **Domains:** Computer Vision, Maps, Computational Geometry, Graph Algorithms 
-- **Frameworks & Tools:** OpenCV, NumPy
+- **Domains:** Computer Vision, 3D/Stereo Depth, Computational Geometry, Graph Algorithms, Maps
+- **Frameworks & Tools:** OpenCV, NumPy, PyTorch, Depth Anything, YOLO, pytest, Docker, Linux, Git
 
 ---
 
