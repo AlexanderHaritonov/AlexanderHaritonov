@@ -7,7 +7,7 @@
 ## 🧪 Projects
 
  ### ⭐ Mask2PolyMin (released on PyPI)
-   [Mask2PolyMin](https://github.com/AlexanderHaritonov/Mask2PolyMin) turns noisy segmentation masks into clean polygons with a minimal number of segments and sub-pixel corners.  
+   [Mask2PolyMin](https://github.com/AlexanderHaritonov/Mask2PolyMin) is inner step of an energy minimization that stitches neighboring polygons into topological maps and B-reps. It turns noisy segmentation masks' contours into clean polygons with a minimal number of segments and sub-pixel corners and returns the 'Energy'.  
    Benchmarked against OpenCV's `approxPolyDP`: comparable IoU and Hausdorff distance, without corner-cutting bias.  
    `pip install mask2polymin`  
    If you find it useful, a star helps others discover it!
